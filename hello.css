@@ -1,0 +1,21 @@
+h1{
+ background-color:aquamarine   
+}
+
+
+.middle{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.meadia{
+    display: flex;
+    justify-content: flex-end;
+}
+.games{
+    background-color: #249b95;
+}
+body{
+    background-color:salmon;
+}
